@@ -10,5 +10,8 @@
     "blockchain"
   ],
   "author": "Timothy LeBon",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
 }
