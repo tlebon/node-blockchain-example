@@ -1,0 +1,14 @@
+{
+  "name": "private-blockchain-sample",
+  "version": "1.0.0",
+  "description": "private blockchain for udacity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Timothy LeBon",
+  "license": "MIT"
+}
